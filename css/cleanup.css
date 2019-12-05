@@ -8,11 +8,11 @@ div#wall #tag-2 {
     z-index: 6;
     display: none;}
 
-   body div#wall #tag-3.slick {
+body div#wall #tag-3.slick {
     display: none;
-    }
+}
 
-   div#wall #tag-4 {
+div#wall #tag-4 {
   display: none;
 }
 
